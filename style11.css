@@ -1,0 +1,12 @@
+*{
+	color:black;
+}
+body{
+background: rgb(178,180,110);
+background: linear-gradient(90deg, rgba(178,180,110,1) 31%, rgba(69,252,216,1) 75%);
+}
+.main {
+	width: 80%;
+	background: #fff;
+	overflow: hidden
+}

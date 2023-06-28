@@ -1,0 +1,17 @@
+*{
+	color:black;
+}
+body{
+	background: rgb(195,180,34);
+background: linear-gradient(0deg, rgba(195,180,34,1) 0%, rgba(235,90,0,1) 100%);
+}
+.wrapper {
+	width: 1060px;
+	margin: 0 auto;
+	padding-bottom: 40px;	
+}
+.main {
+	width: 100%;
+	background: #fff;
+	overflow: hidden
+}
